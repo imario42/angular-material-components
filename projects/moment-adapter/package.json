@@ -6,9 +6,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/imari42/angular-material-components.git"
+    "url": "https://github.com/imario42/angular-material-components.git"
   },
-  "homepage": "https://github.com/imari42/angular-material-components",
+  "homepage": "https://github.com/imario42/angular-material-components",
   "peerDependencies": {
     "@angular/common": "^19.0.0",
     "@angular/core": "^19.0.0",

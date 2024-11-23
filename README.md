@@ -10,7 +10,7 @@ Color picker...).
 
 Please do not hesitate to contact us if you have any question or suggestion.
 
-Feel free to open the [issues](https://github.com/imari42/angular-material-components/issues) or
+Feel free to open the [issues](https://github.com/imario42/angular-material-components/issues) or
 provide a PR.
 
 If you like this project, support angular-material-components by starring⭐.
