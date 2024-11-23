@@ -1,4 +1,4 @@
-# Angular Material Extra Components (DatetimePicker, TimePicker, ColorPicker, FileInput ...) for @angular/material 7.x, 8.x, 9.x, 10.x, 11.x, 12.x, 13.x, 14.x, 15.x, 16.x
+# Angular Material Extra Components (DatetimePicker, TimePicker, ColorPicker, FileInput ...) for @angular/material 7.x, 8.x, 9.x, 10.x, 11.x, 12.x, 13.x, 14.x, 15.x, 16.x, 19.x
 
 [![Build Status](https://travis-ci.com/h2qutc/angular-material-components.svg?branch=master)](https://travis-ci.com/h2qutc/angular-material-components)
 [![License](https://img.shields.io/npm/l/angular-material-components.svg)](https://www.npmjs.com/package/angular-material-components)
@@ -10,7 +10,7 @@ Color picker...).
 
 Please do not hesitate to contact us if you have any question or suggestion.
 
-Feel free to open the [issues](https://github.com/h2qutc/angular-material-components/issues) or
+Feel free to open the [issues](https://github.com/imari42/angular-material-components/issues) or
 provide a PR.
 
 If you like this project, support angular-material-components by starring⭐.
@@ -25,8 +25,9 @@ And thank you so much for your coffee ❤️
 
 Choose the version corresponding to your Angular version:
 
-| Angular | @ngxmc/datetime-picker          |
-| ------- | ------------------------------- |
+| Angular | @imario42/datetime-picker       |
+|---------|---------------------------------|
+| 19      | 19.x+                           |
 | 16      | 16.x+                           |
 | 15      | 15.x+ OR 9.x+ for legacy import |
 | 14      | 8.x+                            |
@@ -40,13 +41,13 @@ Choose the version corresponding to your Angular version:
 
 ### Datetime Picker
 
-[![npm version](https://badge.fury.io/js/%40angular-material-components%2Fdatetime-picker.svg)](https://www.npmjs.com/package/@ngxmc/datetime-picker)
-[![Github All Releases](https://img.shields.io/npm/dt/@ngxmc/datetime-picker.svg)]()
+[![npm version](https://badge.fury.io/js/%40angular-material-components%2Fdatetime-picker.svg)](https://www.npmjs.com/package/@imario42/datetime-picker)
+[![Github All Releases](https://img.shields.io/npm/dt/@imario42/datetime-picker.svg)]()
 
 [TUTORIAL HERE](https://h2qutc.github.io/angular-material-components/)
 
 ```
-npm install --save  @ngxmc/datetime-picker
+npm install --save  @imario42/datetime-picker
 ```
 
 ![Alt Text](demo_datetime_picker.png)
@@ -59,13 +60,13 @@ npm install --save  @ngxmc/datetime-picker
 
 ### Color Picker
 
-[![npm version](https://badge.fury.io/js/%40angular-material-components%2Fcolor-picker.svg)](https://www.npmjs.com/package/@ngxmc/color-picker)
-[![Github All Releases](https://img.shields.io/npm/dt/@ngxmc/color-picker.svg)]()
+[![npm version](https://badge.fury.io/js/%40angular-material-components%2Fcolor-picker.svg)](https://www.npmjs.com/package/@imario42/color-picker)
+[![Github All Releases](https://img.shields.io/npm/dt/@imario42/color-picker.svg)]()
 
 [TUTORIAL HERE](https://h2qutc.github.io/angular-material-components/)
 
 ```
-npm install --save  @ngxmc/color-picker
+npm install --save  @imario42/color-picker
 ```
 
 ![Alt Text](demo_color_picker.png) @see
@@ -73,13 +74,13 @@ npm install --save  @ngxmc/color-picker
 
 ### File Input
 
-[![npm version](https://badge.fury.io/js/%40angular-material-components%2Ffile-input.svg)](https://www.npmjs.com/package/@ngxmc/file-input)
-[![Github All Releases](https://img.shields.io/npm/dt/@ngxmc/file-input.svg)]()
+[![npm version](https://badge.fury.io/js/%40angular-material-components%2Ffile-input.svg)](https://www.npmjs.com/package/@imario42/file-input)
+[![Github All Releases](https://img.shields.io/npm/dt/@imario42/file-input.svg)]()
 
 [TUTORIAL HERE](https://h2qutc.github.io/angular-material-components/)
 
 ```
-npm install --save  @ngxmc/file-input
+npm install --save  @imario42/file-input
 ```
 
 ![Alt Text](demo_file_input.png)

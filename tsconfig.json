@@ -23,26 +23,26 @@
       "node"
     ],
     "paths": {
-      "@ngxmc/*": [
-        "dist/@ngxmc/*"
+      "@imario42/*": [
+        "dist/@imario42/*"
       ],
-      "@ngxmc/color-picker": [
-        "dist/@ngxmc/color-picker"
+      "@imario42/color-picker": [
+        "dist/@imario42/color-picker"
       ],
-      "@ngxmc/color-picker/*": [
-        "dist/@ngxmc/color-picker/*"
+      "@imario42/color-picker/*": [
+        "dist/@imario42/color-picker/*"
       ],
-      "@ngxmc/datetime-picker": [
-        "dist/@ngxmc/datetime-picker"
+      "@imario42/datetime-picker": [
+        "dist/@imario42/datetime-picker"
       ],
-      "@ngxmc/datetime-picker/*": [
-        "dist/@ngxmc/datetime-picker/*"
+      "@imario42/datetime-picker/*": [
+        "dist/@imario42/datetime-picker/*"
       ],
       "file-input": [
-        "dist/@ngxmc/file-input"
+        "dist/@imario42/file-input"
       ],
       "file-input/*": [
-        "dist/@ngxmc/file-input/*"
+        "dist/@imario42/file-input/*"
       ]
     },
     "useDefineForClassFields": false,

@@ -1,16 +1,16 @@
 {
-  "name": "@ngxmc/amc",
+  "name": "@imario42/amc",
   "version": "19.0.0",
   "description": "Angular Material Datetime Picker",
   "author": "HO Hong Quan",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/h2qutc/angular-material-components.git"
+    "url": "git+https://github.com/imario42/angular-material-components.git"
   },
   "bugs": {
-    "url": "https://github.com/h2qutc/angular-material-components/issues"
+    "url": "https://github.com/imario42/angular-material-components/issues"
   },
-  "homepage": "https://github.com/h2qutc/angular-material-components",
+  "homepage": "https://github.com/imario42/angular-material-components",
   "keywords": [
     "angular",
     "angular2",
@@ -44,10 +44,10 @@
     "build:moment-adapter": "ng build NgxMatMomentAdapter",
     "build:color-picker": "ng build NgxMatColorPicker",
     "build:file-input": "ng build NgxMatFileInput",
-    "publish:datetime-picker": "ng build NgxMatDatetimePicker && cd dist/@ngxmc/datetime-picker && npm publish --access public && cd .. && cd .. && cd ..",
-    "publish:moment-adapter": "ng build NgxMatMomentAdapter && cd dist/@ngxmc/moment-adapter && npm publish --access public  && cd .. && cd .. && cd ..",
-    "publish:color-picker": "ng build NgxMatColorPicker && cd dist/@ngxmc/color-picker && npm publish --access public  && cd .. && cd .. && cd ..",
-    "publish:file-input": "ng build NgxMatFileInput && cd dist/@ngxmc/file-input && npm publish --access public  && cd .. && cd .. && cd ..",
+    "publish:datetime-picker": "ng build NgxMatDatetimePicker && cd dist/@imario42/datetime-picker && npm publish --access public && cd .. && cd .. && cd ..",
+    "publish:moment-adapter": "ng build NgxMatMomentAdapter && cd dist/@imario42/moment-adapter && npm publish --access public  && cd .. && cd .. && cd ..",
+    "publish:color-picker": "ng build NgxMatColorPicker && cd dist/@imario42/color-picker && npm publish --access public  && cd .. && cd .. && cd ..",
+    "publish:file-input": "ng build NgxMatFileInput && cd dist/@imario42/file-input && npm publish --access public  && cd .. && cd .. && cd ..",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
